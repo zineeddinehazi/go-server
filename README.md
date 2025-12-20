@@ -27,7 +27,7 @@ go run main.go
 
 - Access the server at `http://localhost:8080`
 - Visit `/hello` to see a greeting
-- Visit `/form` to submit a form
+- Visit `/form.html` to submit a form
 
 ## 🌐 Links
 
