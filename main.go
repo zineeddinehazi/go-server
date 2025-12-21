@@ -13,7 +13,7 @@ func helloHandler(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, "404 not found", http.StatusNotFound)
 		return
 	}
-	//!handle someone tries a GET method (dispalys hello only)
+	//!handle another type of methods (POST, DELETE, UPDATE) (dispalys hello only)
 	if r.Method != "GET" {
 		http.Error(w, "method not supported", http.StatusNotFound)
 		return
