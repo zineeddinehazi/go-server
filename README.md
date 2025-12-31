@@ -29,11 +29,6 @@ go run main.go
 - Visit `/hello` to see a greeting
 - Visit `/form.html` to submit a form
 
-## 🌐 Links
-
-- [GitHub Repository](https://github.com/zineeddinehazi/go-server)
-- [Go Documentation](https://golang.org/doc/)
-
 ## 🤝 Contributing
 
 Feel free to open issues or submit pull requests! 🙌
