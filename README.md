@@ -12,11 +12,11 @@ A simple and efficient web server built with Go, serving static files and handli
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/zineeddinehazi/go-server.git
+git clone https://github.com/zineeddinehazi/goserver.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd go-server
+cd goserver
 ```
 3. Run the server:
 ```bash
